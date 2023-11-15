@@ -1,2 +1,2 @@
-first line modified in Branch featureA
-second line
+first line modified in branch featureB
+second line modified in branch featureB
