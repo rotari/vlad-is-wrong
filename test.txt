@@ -1,2 +1,2 @@
-first line
+first line modified in Branch featureA
 second line
